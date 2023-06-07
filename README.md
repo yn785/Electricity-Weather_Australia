@@ -28,6 +28,5 @@
         5. Residual plot for each model 
 # Instructions on how to run your code.
     1. You must change the file location in import data section according to your machine enviornment
-    2. You must run the code outside the ed because the ed cannot generate plot
-    3. If you want to run the code inside the ed, you must exclude all plot section
+    
 # Any additional requirements needed to run code.
