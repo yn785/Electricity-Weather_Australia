@@ -1,0 +1,20 @@
+#############################################
+Weather data
+#############################################
+
+The weather data in weather_location.csv are sourced from the Bureau of Meteorology website consisting of 4 weather stations in VIC, NSW, QLD, and SA, respectively. Sources:
+
+•	Melbourne (IDCJDW3050): http://www.bom.gov.au/climate/dwo/202203/html/IDCJDW3050.202203.shtml
+•	Sydney (IDCJDW2124): http://www.bom.gov.au/climate/dwo/202203/html/IDCJDW2124.202203.shtml 
+•	Brisbane (IDCJDW4019): http://www.bom.gov.au/climate/dwo/202203/html/IDCJDW4019.202203.shtml
+•	Adelaide (IDCJDW5081): http://www.bom.gov.au/climate/dwo/202203/html/IDCJDW5081.202203.shtml 
+
+#############################################
+Energy Demand data
+#############################################
+
+The data in price_demand_data.csv are sourced from the following for states VIC, SA, NSW, and QLD between Feb 2021 and March 2022. The extraction date is 18 March, so the summary of March 2022 does not include the entire month. Source:
+
+https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data
+
+Note: The data has been modified to suit the assessment criteria. A price surge is a sudden increase in RRP compared to the normal price range.
