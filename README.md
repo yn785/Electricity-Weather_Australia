@@ -1,5 +1,5 @@
 # Electricity-Weather_Australia
-# Canvas Group name: Group project 35
+# Group name: Group project 35
 
 
 # Introduction of intended use for code
